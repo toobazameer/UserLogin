@@ -1,0 +1,5 @@
+com\login\MyUserDetails.class
+com\login\UserLoginApplicationController.class
+com\login\SecurityConfiguration.class
+com\login\MyUserDetailsService.class
+com\login\UserLoginApplication.class
